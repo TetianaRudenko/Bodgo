@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bodgo/static/css/main.7acaea2f.css",
+    "main.js": "/Bodgo/static/js/main.07d3183d.js",
+    "index.html": "/Bodgo/index.html",
+    "main.7acaea2f.css.map": "/Bodgo/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Bodgo/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
